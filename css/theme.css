@@ -342,8 +342,7 @@ input[type="color"]:focus,
 	margin-left: 35px;
 }
 
-/* Partners */
-#partners h3.intro{
+h3.intro{
 	color: #282F39;
 	text-align: center;
 	font-weight: normal;
@@ -354,6 +353,7 @@ input[type="color"]:focus,
 	margin-bottom: 70px;
 }
 
+/* Partners */
 #partners .thumb{
 	height: 35px;
 }
