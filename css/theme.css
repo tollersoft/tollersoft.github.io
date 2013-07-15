@@ -163,7 +163,7 @@ input[type="color"]:focus,
 	transition: all .2s linear;	
 }
 .navbar .nav > li > a:hover {
-	color: #ccc;		
+	color: #ccc;
 }
 .navbar .nav > li.active > a,
 .navbar .nav > li.active:hover > a,
@@ -175,7 +175,7 @@ input[type="color"]:focus,
 	box-shadow: none;
 	-moz-box-shadow: none;
 	background: none;
-	color: #fff;
+	color: rgb(255, 100, 100);
 }
 .btn-dropnav {
     float: right;

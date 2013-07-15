@@ -10,14 +10,15 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </a>
-        <a class="brand scroller" data-section="body" href="index.html">
-            <img src="img/logo.png" alt="logo" />
+        <a class="brand scroller" href="index.html">
+            <img src="img/logo.png" alt="Автоматизация ресторанов, торговли. Видеонаблюдение и безопасность. Тольятти и Самара." />
         </a>
         <div class="nav-collapse collapse">
             <ul class="nav pull-right">
-                <li><a href="#features" class="scroller" data-section="#features">Проекты</a></li>
-                <li><a href="#partners" class="scroller" data-section="#partners">Партнеры</a></li>
-                <li><a href="#footer" class="scroller" data-section="#footer">Контакты</a></li>
+                <li {% if page.title == "Tollersoft For Shops" %} class="active" {% endif %}><a href="shops.html">Магазинам</a></li>
+                <li><a href="index.html#features" class="scroller" data-section="#features">Проекты</a></li>
+                <li><a href="index.html#footer" class="scroller" data-section="#footer">Контакты</a></li>
+                {{ include.param }}
             </ul>
         </div>
     </div>
