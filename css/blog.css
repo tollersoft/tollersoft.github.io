@@ -102,9 +102,6 @@
 #blog_wrapper .post .main_pic {
 	border: none;
 }
-#blog_wrapper .post .info a {	
-	color: #87a46e;
-}
 #blog_wrapper .post .info h3 {
 	margin-top: 15px;
 }
@@ -116,10 +113,13 @@
 	font-weight: bold;
 }
 #blog_wrapper .post .btn {
+    display: block;
 	font-weight: bold;
-	position: absolute;
-	bottom: 15px;
-	right: 15px;
+    width: 150px;
+    margin: 20px 0;
+}
+#blog_wrapper .post .btn a{
+    color: #fff;
 }
 #blog_wrapper .pagination {
 	text-align: right;

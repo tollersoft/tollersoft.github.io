@@ -485,94 +485,94 @@ h3.intro{
 }
 #testimonials .phrases_wrapper .phrase .pic .position { }
 
-/* footer section */
-#footer {
+/* contacts section */
+#contacts {
 	background: url("../img/footer_bg.jpg") 0 0 repeat;
 	min-height: 300px;
 	margin-top: 100px;
 	color: #fff;
 	padding-top: 35px;
 }
-#footer h3 {
+#contacts h3 {
 }
-#footer h4 {
+#contacts h4 {
 	line-height: 26px;
 }
-#footer .blog_post {
+#contacts .blog_post {
 	/*width: 80%;*/
 }
-#footer .blog_post .img-circle {
+#contacts .blog_post .img-circle {
 	width: 120px;
 	height: 120px;
 	display: block;
 	margin: 0 auto;
 	border: 0px;
 }
-#footer .blog_post .title {
+#contacts .blog_post .title {
 	font-size: 17px;
 	font-weight: bold;
 	color: #fff;
 }
-#footer .blog_post .intro {
+#contacts .blog_post .intro {
 	margin: 10px 0px;
 	font-size: 15px;
 }
-#footer .blog_post .date {
+#contacts .blog_post .date {
 	font-size: 13px;
 	color: #B7B9BD;
 }
-#footer .contact_us .field {
+#contacts .contact_us .field {
 	margin-bottom: 15px;
 }
-#footer .contact_us .field .label_field {
+#contacts .contact_us .field .label_field {
 	float: left;
 	width: 80px;
 }
-#footer .contact_us .field input[type="text"],
-#footer .contact_us .field textarea {
+#contacts .contact_us .field input[type="text"],
+#contacts .contact_us .field textarea {
 	background-color: #1a1f26;
 	border: 1px solid #2f3743;
 	border-radius: 5px;
 	color: #fff;
 }
-#footer .contact_us .field textarea {
+#contacts .contact_us .field textarea {
 	height: 65px;
 }
-#footer .contact_us .field select {
+#contacts .contact_us .field select {
 	width: 205px;
 }
-#footer .contact_us button[type="submit"] {
+#contacts .contact_us button[type="submit"] {
 	margin-left: 220px;
 }
-#footer hr {
+#contacts hr {
 	border-top: 1px solid black;
 	border-bottom: 1px solid #363B43;
 	margin: 8px 0px 0px 0px;
 }
-#footer .copyright h3 {
+#contacts .copyright h3 {
 	float: left;
 }
-#footer .copyright .social {
+#contacts .copyright .social {
 	margin-top: 8px;
 	float: left;
 	margin-left: 20px;		
 	border-radius: 22px;
 }
-#footer .copyright .social:hover {
+#contacts .copyright .social:hover {
 	background-color: #1A1E25;
 }
-#footer .copyright .social.fb {
+#contacts .copyright .social.fb {
 	padding: 9px 15px 3px 15px;
 }
-#footer .copyright .social.tw {
+#contacts .copyright .social.tw {
 	margin-top: 10px;
 	padding: 11px 8px 5px 8px;
 }
-#footer .copyright .social.yt {
+#contacts .copyright .social.yt {
 	padding: 8px 8px 5px 8px;
 	margin-top: 10px;
 }
-#footer .copyright .copy p {
+#contacts .copyright .copy p {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
@@ -653,11 +653,11 @@ h3.intro{
 		margin-left: 20px;
 		font-size: 18px;
 	}
-	footer .contact_us input[type="text"], 
-	footer .contact_us textarea{
+	contacts .contact_us input[type="text"], 
+	contacts .contact_us textarea{
 		width: 270px;
 	}
-	footer .contact_us button[type="submit"] {
+	contacts .contact_us button[type="submit"] {
 		margin-left: 300px;
 	}
 }
@@ -725,7 +725,7 @@ h3.intro{
 	#testimonials .phrases_wrapper .phrase .pic .position {
 		display: block;
 	}
-	#footer {
+	#contacts {
 		margin-top: 20px;
 	}
 }
@@ -768,7 +768,7 @@ h3.intro{
 		margin-left: 30px;
 		width: 228px;
 	}
-	#footer .contact_us button[type="submit"] {
+	#contacts .contact_us button[type="submit"] {
 		margin-left: 0px;
 	}
 	#hero { }
@@ -806,7 +806,7 @@ h3.intro{
 		font-size: 13px;
 		padding: 7px 10px;
 	}
-	#footer {
+	#contacts {
 		margin-right: -20px;
 		margin-left: -20px;
 	}
@@ -825,17 +825,17 @@ h3.intro{
 		margin-top: 8px;
 		font-size: 13px;
 	}
-	#footer .container {
+	#contacts .container {
 		padding: 0px 20px;
 	}
-	#footer .blog_post .img-circle {
+	#contacts .blog_post .img-circle {
 		float: left;
 		margin-right: 20px;
 	}
-	#footer .copyright .copy {
+	#contacts .copyright .copy {
 		float: left;
 	}
-	#footer .copyright .copy p {
+	#contacts .copyright .copy p {
 		margin-top: 0px;
 	}	
 }
@@ -857,7 +857,7 @@ h3.intro{
 	#pricing .price_wrapper .header .price span {
 		font-size: 38px;
 	}
-	#footer .contact_us button[type="submit"] {
+	#contacts .contact_us button[type="submit"] {
 		margin-left: 0px;
 	}
 }
