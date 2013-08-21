@@ -92,6 +92,9 @@
 	position: relative;
 	top: 5px;
 }
+#blog_wrapper .articles-list{
+    font-size: 140%;
+}
 #blog_wrapper .post {
 	background-color: #fff;
 	padding: 4px 10px 4px 4px;
